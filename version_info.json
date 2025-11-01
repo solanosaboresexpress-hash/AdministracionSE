@@ -1,0 +1,17 @@
+{
+  "latestVersion": "1.0.0",
+  "latestVersionCode": 1,
+  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/releases/administracion-se-v1.0.0.apk",
+  "releaseNotes": "Versión inicial de Administración SE",
+  "mandatory": false,
+  "minSupportedVersion": "1.0.0",
+  "changelog": [
+    "Sistema de notificaciones mejorado",
+    "Corrección de notificaciones duplicadas",
+    "Mejoras de rendimiento"
+  ],
+  "releaseDate": "2025-01-11",
+  "fileSize": "25 MB",
+  "sha256": ""
+}
+
