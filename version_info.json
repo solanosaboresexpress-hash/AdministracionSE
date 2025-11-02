@@ -1,19 +1,17 @@
 {
-  "latestVersion": "1.0.2",
-  "latestVersionCode": 3,
-  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/releases/administracion-se-v1.0.2.apk",
-  "releaseNotes": "Actualización con estandarización de colores y correcciones",
+  "latestVersion": "1.0.3",
+  "latestVersionCode": 4,
+  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/releases/administracion-se-v1.0.3.apk",
+  "releaseNotes": "Prueba de sistema de actualizaciones automáticas",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
   "changelog": [
-    "🎨 Paleta de colores estandarizada en azul/celeste",
-    "✅ Colores dinámicos desactivados para consistencia",
-    "🔧 Correcciones en el sistema de actualizaciones",
-    "📱 Misma apariencia en todos los dispositivos",
-    "⚡ Mejoras de estabilidad"
+    "🧪 Versión de prueba del sistema de actualizaciones",
+    "✅ Verifica si detecta nuevas versiones",
+    "🎨 Incluye colores estandarizados",
+    "📱 Prueba de descarga e instalación"
   ],
   "releaseDate": "2025-11-02",
-  "fileSize": "~6 MB",
+  "fileSize": "19.4 MB",
   "sha256": ""
 }
-
