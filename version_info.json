@@ -1,19 +1,19 @@
 {
-  "latestVersion": "1.0.5",
-  "latestVersionCode": 6,
-  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/administracion-se-v1.0.5.apk",
-  "releaseNotes": "Versión final con colores estandarizados y sistema OTA optimizado",
+  "latestVersion": "1.0.6",
+  "latestVersionCode": 7,
+  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/administracion-se-v1.0.6.apk",
+  "releaseNotes": "Fix crítico: instalación OTA ahora funciona correctamente con permisos",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
   "changelog": [
     "🎨 Colores azul/celeste unificados en todos los dispositivos",
     "⚡ Sistema de actualizaciones rápido con progreso visual",
-    "✅ Instalación automática funcionando perfectamente",
+    "✅ Instalación OTA funcionando 100% correctamente",
     "📱 ProgressDialog muestra porcentaje de descarga",
-    "🔧 Corregido loop infinito de reinstalación"
+    "🔧 Fix: APK ya no se elimina antes de completar instalación",
+    "🔧 Fix: Instalación funciona correctamente después de dar permisos"
   ],
   "releaseDate": "2025-11-02",
   "fileSize": "19.4 MB",
-  "sha256": "9A681A3B52F2660EF126054692D20D04FEB539FD234C7970BA28B5CA3222CA06"
+  "sha256": "C155C1E0FFD946CB864DC5844423348D1CE19E19CD9B8718FD7721FB69055136"
 }
-
