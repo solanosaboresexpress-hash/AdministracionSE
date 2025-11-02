@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.0.3",
   "latestVersionCode": 4,
-  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/releases/administracion-se-v1.0.3.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/administracion-se-v1.0.3.apk",
   "releaseNotes": "Prueba de sistema de actualizaciones automáticas",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
@@ -15,3 +15,4 @@
   "fileSize": "19.4 MB",
   "sha256": ""
 }
+
