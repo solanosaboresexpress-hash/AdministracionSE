@@ -10,10 +10,10 @@
     "⚡ Sistema de actualizaciones rápido con progreso visual",
     "✅ Instalación automática funcionando perfectamente",
     "📱 ProgressDialog muestra porcentaje de descarga",
-    "🔧 Basado en sistema probado de inventario_app"
+    "🔧 Corregido loop infinito de reinstalación"
   ],
   "releaseDate": "2025-11-02",
   "fileSize": "19.4 MB",
-  "sha256": "A47558573241F252467EF40F9259C8518AA36BE855611BECC04EC0ACDBA8D034"
+  "sha256": "9A681A3B52F2660EF126054692D20D04FEB539FD234C7970BA28B5CA3222CA06"
 }
 
