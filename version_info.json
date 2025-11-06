@@ -1,22 +1,25 @@
 {
-  "latestVersion": "1.0.9",
-  "latestVersionCode": 10,
-  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/administracion-se-v1.0.9.apk",
-  "releaseNotes": "Nuevas funcionalidades: Arqueos y Agenda completa",
+  "latestVersion": "1.0.10",
+  "latestVersionCode": 11,
+  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/administracion-se-v1.0.10.apk",
+  "releaseNotes": "Mejoras importantes: Vista calendario, filtros interactivos, zona horaria Argentina y compresión de imágenes",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
   "changelog": [
-    "📦 Nueva sección de Arqueos - Control de mercadería con fotos",
-    "📸 Supervisores pueden subir fotos de arqueos con fecha y local",
-    "👁️ Maestros pueden ver todos los arqueos con filtros avanzados",
-    "📅 Nueva sección de Agenda para supervisores y maestros",
-    "✅ Crear, completar, reprogramar y eliminar actividades",
-    "📊 Vista de calendario mensual con actividades agendadas",
-    "👥 Maestros pueden ver la agenda de cada supervisor individualmente",
-    "🔔 Notificaciones del maestro movidas al ícono superior",
-    "⚡ Sincronización en tiempo real de arqueos y agendas"
+    "📅 NUEVO: Vista de calendario mensual en Agenda (igual que la web)",
+    "🔀 NUEVO: Alternar entre vista Lista y Calendario",
+    "🎯 NUEVO: Filtros interactivos en Agenda (hoy, próximas, completadas)",
+    "⏰ CORREGIDO: Zona horaria Argentina (UTC-3) en todas las fechas",
+    "📸 MEJORADO: Compresión inteligente de fotos (redimensiona + calidad)",
+    "💾 MEJORADO: Fotos de cámara reducidas automáticamente a ~500KB",
+    "✅ Sin más errores al subir fotos grandes en arqueos",
+    "🗓️ Fechas correctas en agenda, arqueos y pendientes"
   ],
-  "releaseDate": "2025-11-04",
+  "releaseDate": "2025-11-06",
   "fileSize": "19.6 MB",
-  "sha256": "2F277A07AE064B236BE9F7A008A7454C74DEA2309B7C66940DBA09B84E244883"
+  "sha256": "80F41BCBB7854F891466C38DB8037EA71548E7B0E86082BB91C1985273D57102"
 }
+
+
+
+
