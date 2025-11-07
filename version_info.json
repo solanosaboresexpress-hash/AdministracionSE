@@ -1,11 +1,14 @@
 {
-  "latestVersion": "1.0.10",
-  "latestVersionCode": 11,
-  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/administracion-se-v1.0.10.apk",
-  "releaseNotes": "Mejoras importantes: Vista calendario, filtros interactivos, zona horaria Argentina y compresión de imágenes",
+  "latestVersion": "1.0.11",
+  "latestVersionCode": 12,
+  "downloadUrl": "https://raw.githubusercontent.com/solanosaboresexpress-hash/AdministracionSE/main/administracion-se-v1.0.11.apk",
+  "releaseNotes": "Mejora de visibilidad: Botones de cambio de vista optimizados en Agenda",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
   "changelog": [
+    "🎨 MEJORADO: Botones Lista/Calendario ahora al lado del título 'Mi Agenda'",
+    "📱 MEJORADO: Mejor visibilidad en pantallas pequeñas",
+    "✅ CORREGIDO: Botones de cambio de vista siempre visibles"
     "📅 NUEVO: Vista de calendario mensual en Agenda (igual que la web)",
     "🔀 NUEVO: Alternar entre vista Lista y Calendario",
     "🎯 NUEVO: Filtros interactivos en Agenda (hoy, próximas, completadas)",
@@ -15,10 +18,13 @@
     "✅ Sin más errores al subir fotos grandes en arqueos",
     "🗓️ Fechas correctas en agenda, arqueos y pendientes"
   ],
-  "releaseDate": "2025-11-06",
+  "releaseDate": "2025-11-07",
   "fileSize": "19.6 MB",
-  "sha256": "CB57F00BFF3D5840A8907A3A138CD8B158400A2BFF5B74DDF4BCE041FA429EE3"
+  "sha256": "22157927F2CEBCFC4F473048F97A83420CC108877D8A63EB5C8A95509EC06956"
 }
+
+
+
 
 
 
